@@ -119,6 +119,7 @@ Connect LLMs to prediction market data via the Model Context Protocol.
 - [fred-mcp-server](https://github.com/kablewy/fred-mcp-server) — FRED economic data for Claude/Cursor.
 - [mcp-fredapi](https://github.com/Jaldekoa/mcp-fredapi) — FRED API with series search and category browsing.
 - [imf-data-mcp](https://github.com/c-cf/imf-data-mcp) — IMF economic data via SDMX 3.0 API.
+- [Oracle Markets MCP](https://oraclemarkets.io/connect) — MCP server for AI forecasting data: search real-world predictions, retrieve multi-agent forecasts and rationales, trending questions and model leaderboard.
 
 ## CLI Tools
 
